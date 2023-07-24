@@ -33,6 +33,7 @@ jobs:
       #src-path: src
       #unit-test-path: UnitTests
       #skip-unit-tests: true
+      is-nuget-package: false
       #force-assembly-version: true
       #create-github-release: false
       #nexus-enable-upload: true
