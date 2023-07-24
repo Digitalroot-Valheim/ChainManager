@@ -1,32 +1,11 @@
-Structuring your Thunderstore package
-https://github.com/ebkr/r2modmanPlus/wiki/Structuring-your-Thunderstore-package
-
-Manifest V1 (Thunderstore) + author field
-https://github.com/ebkr/r2modmanPlus/wiki/Installing-mods-locally#manifest-v1-thunderstore--author-field
-
-
-Move me to [gitrepo]/doc
-
 # Summary
-This is a port of <a href="https://www.nexusmods.com/valheim/mods/0000">ModTemplate</a> to JVL   
-PR: https://github.com/Atokal/AtosArrows/pull/3   
-Assets belong to <a href="https://github.com/Atokal" target="_blank">Atokal</a> and are used with permission because of:   
-- Asset use permission You are allowed to use the assets in this file without permission or crediting me. https://www.nexusmods.com/valheim/mods/969 (June 12, 2021)
- 
-Original Mod: https://www.nexusmods.com/valheim/mods/969
-
-**Code is a complete rewrite.**
+Adds a craftable chain to Valheim.
 
 ## License
-Original source has no license.   
-JVL Version is released under: **GNU Affero General Public License v3.0**
+**GNU Affero General Public License v3.0**
 
-## ModTemplate
-Adds several new arrows into the game. Expands arrow progression for fighting tougher enemies! 
-
-New Items:
-- Stone Arrow
-- Blunted Arrow
+## Chain Manager
+Adds a craftable chain to Valheim.
 
 ### Dependencies
 - <a href="https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/"  target="_blank">BepInExPack Valheim</a>
@@ -43,11 +22,8 @@ New Items:
 - Use the repo issues tab above.
 
 ### Support Me @ https://www.buymeacoffee.com/digitalroot
-
-### Thanks to 
-- <a href="https://github.com/Atokal" target="_blank">Atokal</a>
-
+<br />
 <p align="center">
-<b>Digitalroot can be found in the Odin Plus Team Discord</b><br />
-  <a href="https://discord.gg/BHbTumqG7U" target="_blank"><img src="https://digitalroot.net/img/odinplusdisc.png"></a>
+<b>Digitalroot can be found in the Valhalla Legends Discord</b><br /><br />
+  <a href="https://discord.gg/SsMW3rm67u" target="_blank"><img src="https://digitalroot.net/img/vl/vl_logo_125x154.png"></a>
 </p>

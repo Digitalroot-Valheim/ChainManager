@@ -36,7 +36,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ico", "ico", "{C66A8E3B-31D
 		ico\ValheimRcon_color.png = ico\ValheimRcon_color.png
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitalroot.Valheim.ChainManager", "ChainManager\Digitalroot.Valheim.ChainManager.csproj", "{99893EFC-29B3-42DE-8380-65C3279678F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8EF779BE-F654-4B79-AC04-514BF12284BA}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99893EFC-29B3-42DE-8380-65C3279678F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99893EFC-29B3-42DE-8380-65C3279678F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99893EFC-29B3-42DE-8380-65C3279678F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99893EFC-29B3-42DE-8380-65C3279678F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF779BE-F654-4B79-AC04-514BF12284BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF779BE-F654-4B79-AC04-514BF12284BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF779BE-F654-4B79-AC04-514BF12284BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF779BE-F654-4B79-AC04-514BF12284BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
