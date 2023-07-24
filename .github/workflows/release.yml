@@ -29,7 +29,7 @@ jobs:
 
     with:
       sln-file-name: Digitalroot.Valheim.ChainManager
-      proj-file-name: Digitalroot.Valheim.ChainManager
+      proj-file-name: ChainManager
       #src-path: src
       #unit-test-path: UnitTests
       #skip-unit-tests: true
