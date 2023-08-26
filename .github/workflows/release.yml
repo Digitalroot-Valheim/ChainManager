@@ -42,4 +42,4 @@ jobs:
       ts-name: Chain_Manager
       ts-description: "Adds a craftable chain to Valheim."
       ts-categories: Client-side Crafting
-      ts-dependencies: denikson-BepInExPack_Valheim@5.4.2105 ValheimModding-Jotunn@2.12.4
+      ts-dependencies: denikson-BepInExPack_Valheim@5.4.2105 ValheimModding-Jotunn@2.12.6
