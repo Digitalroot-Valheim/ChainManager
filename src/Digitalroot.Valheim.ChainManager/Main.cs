@@ -39,7 +39,7 @@ namespace Digitalroot.Valheim.ChainManager
       try
       {
         Log.Trace(Instance, $"{Namespace}.{MethodBase.GetCurrentMethod()?.DeclaringType?.Name}.{MethodBase.GetCurrentMethod()?.Name}");
-        // NexusId = Config.Bind("General", "NexusID", 0000, new ConfigDescription("Nexus mod ID for updates", null, new ConfigurationManagerAttributes { Browsable = false, ReadOnly = true }));
+        NexusId = Config.Bind("General", "NexusID", 2605, new ConfigDescription("Nexus mod ID for updates", null, new ConfigurationManagerAttributes { Browsable = false, ReadOnly = true }));
         PrefabManager.OnVanillaPrefabsAvailable += OnVanillaPrefabsAvailable;
       }
       catch (Exception e)

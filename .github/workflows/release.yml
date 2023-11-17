@@ -36,10 +36,10 @@ jobs:
       is-nuget-package: false
       #force-assembly-version: true
       #create-github-release: false
-      #nexus-enable-upload: true
-      #nexus-mod-id: 000
+      nexus-enable-upload: true
+      nexus-mod-id: 2605
       ts-enable-upload: true
       ts-name: Chain_Manager
       ts-description: "Adds a craftable chain to Valheim."
       ts-categories: Client-side Crafting
-      ts-dependencies: denikson-BepInExPack_Valheim@5.4.2105 ValheimModding-Jotunn@2.12.6
+      ts-dependencies: denikson-BepInExPack_Valheim@5.4.2202 ValheimModding-Jotunn@2.14.6
