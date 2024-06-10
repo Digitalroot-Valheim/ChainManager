@@ -5,7 +5,7 @@ Adds a craftable chain to Valheim.
 **GNU Affero General Public License v3.0**
 
 ## Chain Manager
-Adds a craftable chain to Valheim.
+Adds a craft-able chain to Valheim.
 
 ### Dependencies
 - <a href="https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/"  target="_blank">BepInExPack Valheim</a>
