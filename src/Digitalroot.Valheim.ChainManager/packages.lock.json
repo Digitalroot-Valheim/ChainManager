@@ -50,11 +50,11 @@
       },
       "Digitalroot.Valheim.Common.Utils": {
         "type": "Direct",
-        "requested": "[1.0.64, )",
-        "resolved": "1.0.64",
-        "contentHash": "47tdaqSzl8VCLGJ2owH4O7+FfUoSq/qSA3cNWpcqihwkmgUAner+FFkxYupxr0WVGL05jgI2u78jOBpGKP71TQ==",
+        "requested": "[1.0.65, )",
+        "resolved": "1.0.65",
+        "contentHash": "959nl5YeT++Q/PEXRIQqI5WmY9cA5gdcVECUN+wRPkSgyImROWHxU7u1VXus59BwRxL/rGSOz0YyIIxjVh7lBA==",
         "dependencies": {
-          "Digitalroot.Valheim.Common.Log": "1.1.53"
+          "Digitalroot.Valheim.Common.Log": "1.1.54"
         }
       },
       "Digitalroot.Valheim.References.JvL": {
